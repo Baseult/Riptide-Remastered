@@ -1,0 +1,15 @@
+1. Please Inject in Main Menu - Don't Inject Ingame it will probably crash
+2. Disable features in Misc Visuals (Bulletbeams, Hitmarker, Damage Indicator)
+3. Remove the Riptide folder in C:/
+4. Remove all Configs for Riptide
+5. Don't load your Configs ingame. Load your Configs in Main Menu
+6. Remove Junkcode (Riptide is heavy and crashs with to much code)
+7. Change your Injector (Use Extreme Injector for testing)
+8. Create a Config before you save one
+9. Update your Windows SDK Version
+10. Download Windows DirectX SDK
+
+KNOWN BUGS:
+- Anti Aim crashs the game on slow computers (sometimes)
+- Ragebot shoots at the Bottom or in the air - Restart your Computer the Ragebot needs some CPU and Memory power (try to disable RCS for AutoSniper / Awp / SSG - NoRecoil). Also may offsets have changed so update the cheat yourself.
+- Ragebot sometimes only works with Autosniper Awp and SSG or Pistols.. I will fix the Offsets maybe.
