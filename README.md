@@ -1,6 +1,8 @@
 # Riptide-Remastered
 Riptide Remastered updated for 2019 - Indigo Paste (CSGO Cheat)
 
+My Discord: https://discord.gg/BwvnDmbKDt
+
 Updated 30.12.2018 - Updated by Baseult
 
 - Fixed Ragebot? Sometimes works, sometimes doesn't work wtf x)
