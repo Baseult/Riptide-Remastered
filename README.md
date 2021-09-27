@@ -1,7 +1,7 @@
 # Riptide-Remastered
 Riptide Remastered updated for 2019 - Indigo Paste (CSGO Cheat)
 
-My Discord: https://discord.gg/eRSktWTsCm
+My Discord: https://discord.gg/Tr4YZDKneX
 
 Updated 30.12.2018 - Updated by Baseult
 
